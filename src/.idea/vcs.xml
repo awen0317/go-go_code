@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/github.com/PuerkitoBio/goquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/Unknwon/com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/andybalholm/cascadia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/astaxie/beego" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/beego/bee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-sql-dirver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-sql-driver/MySQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gpmgo/gopm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/nfnt/resize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shiena/ansicolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/net" vcs="Git" />
+  </component>
+</project>

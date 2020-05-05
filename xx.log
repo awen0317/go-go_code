@@ -1,0 +1,4 @@
+2020/04/08 11:23:17.416190 H:/go/go_code/src/topgoer/library/log/mian.go:15: 这是一条很普通的日志
+【oncall系统】2020/04/08 11:23:17.417156 H:/go/go_code/src/topgoer/library/log/mian.go:17: 这是一条很普通的日志
+【oncall系统】2020/04/08 11:23:17.417156 H:/go/go_code/src/topgoer/library/log/mian.go:19: 这是一条很普通的日志
+【oncall系统】2020/04/08 11:23:17.417156 H:/go/go_code/src/topgoer/library/log/mian.go:20: 这一条会触发fatal,日志

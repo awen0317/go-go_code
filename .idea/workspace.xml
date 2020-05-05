@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19160be8-be18-4387-a508-7258734656cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/admin_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/admin_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/async_producer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/async_producer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/broker.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/broker.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/broker_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/broker_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/client_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/client_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/client_tls_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/client_tls_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/config_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/config_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/consumer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/consumer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/consumer_group.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/consumer_group.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/describe_log_dirs_response_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/describe_log_dirs_response_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/examples/consumergroup/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/examples/consumergroup/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/examples/consumergroup/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/examples/consumergroup/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/functional_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/functional_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/gssapi_kerberos.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/gssapi_kerberos.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/kerberos_client_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/kerberos_client_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/message.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/message.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/message_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/message_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mockbroker.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mockbroker.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mockkerberos.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mockkerberos.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mockresponses.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mockresponses.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mocks/consumer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/mocks/consumer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/offset_commit_request.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/offset_commit_request.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/partitioner_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/partitioner_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/record.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/record.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/boot_cluster.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/boot_cluster.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/create_topics.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/create_topics.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/halt_cluster.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/halt_cluster.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/install_cluster.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/install_cluster.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/setup_services.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Shopify/sarama/vagrant/setup_services.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/Unknwon/com/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/Unknwon/com/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/andybalholm/cascadia/selector_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/andybalholm/cascadia/selector_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/grace/grace.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/grace/grace.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/orm/orm_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/orm/orm_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/plugins/apiauth/apiauth_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/plugins/apiauth/apiauth_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/router_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/router_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/toolbox/task_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/toolbox/task_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/tree_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/tree_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/utils/file.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/utils/file.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/utils/file_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/utils/file_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego/utils/safemap_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/astaxie/beego/utils/safemap_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/internal/redistest/testdb.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/internal/redistest/testdb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/conn.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/conn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/conn_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/conn_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/pool.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/pool.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/pubsub_example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/pubsub_example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/pubsub_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/pubsub_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/reply_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/reply_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/scan_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/scan_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/test_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redis/test_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redisx/connmux_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/garyburd/redigo/redisx/connmux_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/connector_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/connector_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/driver_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/driver_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/dsn.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/dsn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/dsn_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/dsn_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/go-sql-driver/MySQL/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/golang/snappy/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/golang/snappy/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/hashicorp/go-uuid/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/hashicorp/go-uuid/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/flate/deflate_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/flate/deflate_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/flate/inflate_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/flate/inflate_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/gzip/gunzip_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/gzip/gunzip_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/gzip/gzip_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/gzip/gzip_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/zip/reader_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/zip/reader_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/zip/writer_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/zip/writer_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/zlib/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/zlib/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/zlib/reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/zlib/reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/klauspost/compress/zlib/reader_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/klauspost/compress/zlib/reader_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/olivere/elastic/client_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/olivere/elastic/client_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/olivere/elastic/indices_analyze_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/olivere/elastic/indices_analyze_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/olivere/elastic/recipes/go-modules/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/olivere/elastic/recipes/go-modules/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/olivere/elastic/recipes/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/olivere/elastic/recipes/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/olivere/elastic/recipes/text_vs_keyword/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/olivere/elastic/recipes/text_vs_keyword/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/pierrec/lz4/decode_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/pierrec/lz4/decode_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/pierrec/lz4/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/pierrec/lz4/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/streadway/amqp/connection.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/streadway/amqp/connection.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/streadway/amqp/tls_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/streadway/amqp/tls_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/html/parse_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/html/parse_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/html/testdata/go1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/html/testdata/go1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/html/token_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/html/token_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/http2/h2demo/h2demo.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/http2/h2demo/h2demo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/http2/h2i/h2i.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/http2/h2i/h2i.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/http2/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/http2/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/http2/server_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/http2/server_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/http2/transport.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/http2/transport.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/http2/transport_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/http2/transport_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/rawconn.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/rawconn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/rawconn_mmsg.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/rawconn_mmsg.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/rawconn_msg.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/rawconn_msg.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/sys_posix.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/internal/socket/sys_posix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/internal/socks/socks.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/internal/socks/socks.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/internal/sockstest/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/internal/sockstest/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/ipv4/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/ipv4/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/ipv6/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/ipv6/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/nettest/conntest_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/nettest/conntest_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/nettest/nettest.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/nettest/nettest.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/netutil/listen_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/netutil/listen_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/proxy/dial_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/proxy/dial_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/proxy/per_host_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/proxy/per_host_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/proxy/proxy.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/proxy/proxy.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/proxy/proxy_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/proxy/proxy_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/webdav/internal/xml/marshal_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/webdav/internal/xml/marshal_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/webdav/internal/xml/read_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/webdav/internal/xml/read_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/webdav/internal/xml/xml_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/webdav/internal/xml/xml_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/websocket/dial.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/websocket/dial.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/websocket/exampledial_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/websocket/exampledial_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/websocket/hybi_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/websocket/hybi_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/websocket/websocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/websocket/websocket.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golang.org/x/net/websocket/websocket_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golang.org/x/net/websocket/websocket_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/jcmturner/rpc.v1/ndr/strings_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/gopkg.in/jcmturner/rpc.v1/ndr/strings_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/eapache/go-xerial-snappy" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1Z7L6ECvzJGt4n17iROMwoH4nM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day11" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day11" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day11\etcd_put" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day12\etcd_watch" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day11\logagent" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day11\03context_demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day11\logagent\config" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day11" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive" />
+      <recent name="H:\go\go_code\src\laonanhai\PhaseFive\day3" />
+      <recent name="H:\go\go_code\src\laonanhai" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main">
+    <configuration name="go build laonanhai/PhaseFive/day12/etcd_demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_code" />
+      <working_directory value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day11/etcd_put" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day11/etcd_put/main.go" />
+      <package value="laonanhai/PhaseFive/day12/etcd_demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build laonanhai/PhaseFive/day14/gin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_code" />
+      <working_directory value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day14/gin" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day14/gin/tt.go" />
+      <package value="laonanhai/PhaseFive/day14/gin" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build laonanhai/PhaseFive/day5/15struct_json" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_code" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day5/15struct_json/main.go" />
+      <package value="laonanhai/PhaseFive/day5/15struct_json" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_code" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/main/main.go" />
+      <package value="main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_code" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/laonanhai/PhaseFive/day5/15struct_json/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main" />
+        <item itemvalue="Go Build.go build laonanhai/PhaseFive/day14/gin" />
+        <item itemvalue="Go Build.go build laonanhai/PhaseFive/day12/etcd_demo" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build laonanhai/PhaseFive/day5/15struct_json" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/laonanhai/PhaseOneOffice/day3/example/example1_2/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
